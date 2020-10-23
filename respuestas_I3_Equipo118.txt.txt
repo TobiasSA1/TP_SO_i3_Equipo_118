@@ -15,3 +15,17 @@ g-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedid
 3) Se añade
 4) Se realiza el commit
 5) Se hace el push (el push se hará en la rama que clonamos) 
+
+
+
+Responde BETA:
+a-¿Como queda El master después de estos cambios?
+b-¿Beta pudo ver todos los cambios que se realizaron?
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+
+a- El master queda actualizado con todos los archivos
+b- Si, pude ver los cambios que realizaron
+c- git checkout main
+   git merge y la branch
+   y git push
+   
