@@ -9,3 +9,9 @@ f-¿Que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedi
 3) Se añade
 4) Se realiza el commit
 5) Se hace el push (el push se hará en la rama que clonamos) 
+g-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+1) Se debió clonar la rama de la rama creada por Beta mediante el git clone --branch [repositorio]
+2) Se modificó el archivo con los comandos echo y ipconfig >> beta.txt
+3) Se añade
+4) Se realiza el commit
+5) Se hace el push (el push se hará en la rama que clonamos) 
